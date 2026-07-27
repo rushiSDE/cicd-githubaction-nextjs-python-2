@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"frontend/app\" \"backend\" \".github/workflows\")"
+    ],
+    "additionalDirectories": [
+      "I:\\Projects\\cicd github action\\frontend"
+    ]
+  }
+}
