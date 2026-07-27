@@ -18,6 +18,7 @@ export default function Home() {
     <main style={{ fontFamily: "sans-serif", padding: "2rem" }}>
       <h1>Next.js frontend</h1>
       <p>Backend status: {status}</p>
+      <p>rushi</p>
     </main>
   );
 }
